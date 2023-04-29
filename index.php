@@ -3,6 +3,7 @@
   <title>Index</title>
  </head>
  <body>
- <?php echo '<p>Hello world from PHP! Declerative Pipeline!</p>'; ?> 
+ <?php echo '<p>Hello world from PHP!
+ Declerative Pipeline</p>'; ?> 
  </body>
 </html>
